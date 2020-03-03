@@ -13,6 +13,6 @@ HYRULE TEMPLAR CASTLE
 
 [per khala ad astra](http://rainy.7thgen.info/about/)
 
-[pluskid]http://pluskid.org/
+[pluskid](http://pluskid.org/)
 
 [-](https://github.com/mm17zz/zhaoyang.github.io/edit/master/index.md)
