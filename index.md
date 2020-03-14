@@ -2,7 +2,7 @@
 
 从此只有眼前路没有身后身
 
-
+如果在Atom上添加一行字，会是什么效果呢？
 
 
 HYRULE TEMPLAR CASTLE
